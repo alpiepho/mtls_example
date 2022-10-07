@@ -12,7 +12,9 @@ This is my hands-on followup to a video I stumbled across that described how the
 - code example
     - https://gist.github.com/microbuilder/cf928ea5b751e6ea467cc0cd51d2532f#file-certgen-sh=
 
-
+## TODO
+- nice to have as 1 script, but should split up to create server and device certs seperate from (local) CA
+- double check this is mutual tls validation, server seems to just dump cert info
 
 <hr>
 
